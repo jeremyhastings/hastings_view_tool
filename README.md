@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+HastingsViewTool::Renderer.copyright('Jeremy Hastings', 'All rights reserved')
+```
 
 ## Development
 
